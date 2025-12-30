@@ -18,11 +18,15 @@
     "ai",
     "automation"
   ],
-  "author": "",
+  "author": "mint-soft",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mint-soft-opensource/claude-slack-notifier.git"
+  },
+  "homepage": "https://github.com/mint-soft-opensource/claude-slack-notifier#readme",
+  "bugs": {
+    "url": "https://github.com/mint-soft-opensource/claude-slack-notifier/issues"
   },
   "engines": {
     "node": ">=16.0.0"

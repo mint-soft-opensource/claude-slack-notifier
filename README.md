@@ -221,4 +221,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT © 2025
+MIT © 2025 mint-soft
