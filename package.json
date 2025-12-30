@@ -1,0 +1,30 @@
+{
+  "name": "claude-slack-notifier",
+  "version": "1.0.0",
+  "description": "Send Slack notifications when Claude Code tasks complete. Cross-platform (Windows, macOS, Linux).",
+  "main": "scripts/notify.js",
+  "bin": {
+    "claude-slack-notify": "./bin/claude-slack-notify"
+  },
+  "scripts": {
+    "test": "node scripts/notify.js --test"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "slack",
+    "notification",
+    "hook",
+    "ai",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
