@@ -1,6 +1,6 @@
 {
   "name": "claude-slack-notifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Send Slack notifications when Claude Code tasks complete. Cross-platform (Windows, macOS, Linux).",
   "main": "scripts/notify.js",
   "bin": {
